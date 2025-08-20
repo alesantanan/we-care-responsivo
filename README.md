@@ -1,4 +1,4 @@
-[**Estamos online, clique aqui!**](https://alesantanan.github.io/we-care-responsivo/) 🎉  
+[**Estamos online, clique aqui!**]() 🎉  
 <br>
 
 <p align="center">
@@ -32,13 +32,13 @@ O objetivo foi desenvolver uma interface moderna e acolhedora, mostrando serviç
 ## 💡 Demonstrações
 
 ### 💻 Versão Web  
-<img src="./assets/wecare-web.png">
+<img src=https://github.com/alesantanan/we-care-responsivo/blob/main/assets/we%20care%20pagina%20web.png>
 
 ### 📲 Mobile  
-<img src="./assets/wecare-mobile.png">
+<img src=https://github.com/alesantanan/we-care-responsivo/blob/main/assets/we%20care%20pagina%20mobile.png>
 
 ### 📱 Responsivo  
-<img src="./assets/wecare-responsivo.png">
+<img src=https://github.com/alesantanan/we-care-responsivo/blob/main/assets/we%20care%20pagina%20mobile.png>
 
 <br>
 
