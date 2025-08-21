@@ -38,7 +38,7 @@ O objetivo foi desenvolver uma interface moderna e acolhedora, mostrando serviç
 <img src=https://github.com/alesantanan/we-care-responsivo/blob/main/assets/we%20care%20pagina%20mobile.png>
 
 ### 📱 Responsivo  
-<img src=https://github.com/alesantanan/we-care-responsivo/blob/main/assets/we%20care%20pagina%20mobile.png>
+<img src=https://github.com/alesantanan/we-care-responsivo/blob/main/assets/we%20care%20responsivo.png>
 
 <br>
 
